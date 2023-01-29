@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+   
+}
+body {
+    background-color:#A4DE02;
+    padding: 60px;
+    color: gray;
+}
+a {
+    color: blue;
+}
+.container {
+    background-color: white;
+    width:700px;
+    margin: auto;
+   }
+main {
+    margin: 30px;
+    padding-bottom: 20px;
+   }
+table{
+   margin:50px;
+   
+}
+
+td {
+    border: 1px solid lightgray;
+    width:300px;
+
+    border-collapse: collapse;
+  }
+ tr{
+    
+    height:30px;
+    width:10px;
+    text-align: center;
+  }
+img {
+    width: 20%;
+    height: 20%;
+}
